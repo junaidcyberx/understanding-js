@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Junaid",
+        "gender": "Male",
+        "dob": "2000-01-01",
+        "parentage": "Father Name",
+        "phonenumder": "9876543210"
+    },
+    {
+        "name": "a",
+        "gender": "a",
+        "dob": "2026-09-10",
+        "parentage": "a",
+        "phonenumder": "7888888888"
+    }
+]
